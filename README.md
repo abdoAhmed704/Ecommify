@@ -4,6 +4,12 @@
 Welcome to the **Ecommify API** documentation! This guide provides an overview of the API endpoints and their usage. For a detailed reference, visit the [Postman Documentation](https://documenter.getpostman.com/view/36376131/2sAYJ6BzG7#dc91cee2-91a8-4930-8741-e187e6dda37c).
 
 ---
+### how to use as dev
+1. Download the package.json by `npm install`
+2. Start the server by `node server.js`
+3. Use Postman or any other API client to test the endpoints
+
+---
 
 ## Table of Contents
 
